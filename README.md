@@ -1,2 +1,2 @@
 # dev-resume
-DevProjects by codementor.io
+DevProjects by [codementor](codementor.io)
